@@ -1,0 +1,53 @@
+commit a8de3f03ab6027439e5ffc9ad1a70af97dd4c397
+Author: karan <karanrajsinghgera@gmail.com>
+Date:   Fri May 26 02:32:29 2023 +0000
+
+    Revert "this is to understand git revert"
+    
+    This reverts commit 0c48b13f9a5645c298dca8cdff82b9edac701385.
+
+commit 0c48b13f9a5645c298dca8cdff82b9edac701385
+Author: karan <karanrajsinghgera@gmail.com>
+Date:   Fri May 26 02:31:33 2023 +0000
+
+    this is to understand git revert
+
+commit cc5314bfd3684ce1768d22cb252dcb5c53ecc988
+Author: karan <karanrajsinghgera@gmail.com>
+Date:   Fri May 26 02:15:55 2023 +0000
+
+    learn git stash
+
+commit d41bd574a14639fd5a52d09aa68a4be1fb300f62
+Author: karangera2003 <134566870+karangera2003@users.noreply.github.com>
+Date:   Wed May 24 23:07:25 2023 -0400
+
+    Update demo.txt
+    
+    git fetch demo
+
+commit f097442372f2ab93b69561c44b343be5df38e3f7
+Author: karangera2003 <134566870+karangera2003@users.noreply.github.com>
+Date:   Wed May 24 22:55:59 2023 -0400
+
+    Update demo.txt
+    
+    updated using github
+
+commit 8f38452acade96ad8912f7c2488599779ffd0b17
+Author: karan <karanrajsinghgera@gmail.com>
+Date:   Thu May 25 02:53:18 2023 +0000
+
+    git push commit testing
+
+commit 5ec4a0f1260ec2a2251aff85d7be005b01aee846
+Author: karan <karanrajsinghgera@gmail.com>
+Date:   Thu May 25 01:57:59 2023 +0000
+
+    update file demo.txt
+
+commit 60958f26e4ba7db81350bd4f0b3b687b75b063ee
+Author: karan <karanrajsinghgera@gmail.com>
+Date:   Wed May 24 03:33:06 2023 +0000
+
+    this is just a demo
