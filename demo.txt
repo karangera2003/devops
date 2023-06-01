@@ -6,3 +6,5 @@ this is to understand git fetch
 this is to understand git stash
 
 this is to understand checkout
+
+this is to test jenkins git hook
